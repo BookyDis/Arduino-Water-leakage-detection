@@ -1,1 +1,0 @@
-Please install the lastest version of Arduino IDE and the codes provided. The IDE will give you a prompt to automatically install any neccesary libraries needed to run the code.
